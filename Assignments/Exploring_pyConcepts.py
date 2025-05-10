@@ -1,3 +1,7 @@
+#Garrett Knight
+#genai_externship
+#Assignment: Exploring Python Concepts
+
 #Task 1 - Variables: Your First Python Intro
 print("\n" + "*" * 3 + "Task 1 - Variables: Your First Python Intro" + "*" * 3 + "\n")
 name = "Bob"
