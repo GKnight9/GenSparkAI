@@ -1,0 +1,5 @@
+2025-06-27 04:29 - ERROR - Uh-oh! The ValueError occured! 
+2025-06-27 04:31 - ERROR - Uh-oh! The ValueError occured! 
+2025-06-27 04:31 - ERROR - Uh-oh! The ZeroDivisionError occured!
+2025-06-27 04:32 - ERROR - Uh-oh! The ValueError occured! 
+2025-06-27 04:32 - ERROR - Uh-oh! The ZeroDivisionError occured!
